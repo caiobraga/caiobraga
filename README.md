@@ -1,24 +1,34 @@
-##Hi, I'm Caio Braga (@caiobraga). A Brazilian developer
-- 👋 Hi, I’m @caiobraga
-- 👀 I’m interested in react, react-native, flutter and making the world a better place with my code 
-- 🌱 I’m currently learning more about mobile development
-- 💞️ I’m looking to collaborate on startups around the world
-- 📫 How to reach me: caiotagb@gmail.com
+# 🚀 Hi, I'm Caio Braga (@caiobraga)
+### Mid-level DevOps Engineer & Full-stack Developer (7+ Years)
 
-<!---
-caiobraga/caiobraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiobraga)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiobraga&show_icons=true&theme=radical)
+I bridge the gap between robust software development and scalable infrastructure. With a background in Computer Science and a "Developer Mindset," I focus on automating the SDLC and architecting resilient cloud-native environments.
 
-##
+---
 
-  <a href="https://www.instagram.com/caio.g.braga" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME">
-</a> 
+### 🛠 Tech Stack & Tools
 
+- **DevOps & Infrastructure:** Docker, Kubernetes (K8s), CI/CD Pipelines, UNIX/Linux, Supabase.
+- **Automation & Workflow:** N8N, GitHub Actions, Git, Shell Scripting, Redis.
+- **Languages:** Python, Golang, Node.js, C++, C#, TypeScript, Dart/Flutter.
+- **Databases:** PostgreSQL, MySQL, NoSQL, Redis.
+- **AI-Enhanced Dev:** Cursor, Windsurf, Claude Code (leveraged for infrastructure-as-code automation).
 
+---
 
+### 📈 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+- 📧 **Email:** caiotagb@gmail.com
+- 💼 **LinkedIn:** [:[//linkedin.com](https://www.linkedin.com/in/caio-braga-mobile-flutter-developer/)](https://linkedin.com)
+
+---
+
+> "I’m looking to collaborate on high-impact projects and startups worldwide, bringing efficiency through automation and clean infrastructure."
