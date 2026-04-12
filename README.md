@@ -18,7 +18,7 @@ I bridge the gap between robust software development and scalable infrastructure
 ### 📫 Connect with me
 
 - 📧 **Email:** caiotagb@gmail.com
-- 💼 **LinkedIn:** [:https://www.linkedin.com/in/caio-braga-mobile-flutter-developer/](https://www.linkedin.com/in/caio-braga-mobile-flutter-developer/)](https://linkedin.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/caio-braga-mobile-flutter-developer/](https://www.linkedin.com/in/caio-braga-mobile-flutter-developer/)]
 
 ---
 
