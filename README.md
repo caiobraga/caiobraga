@@ -15,15 +15,6 @@ I bridge the gap between robust software development and scalable infrastructure
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</div>
-
----
-
 ### 📫 Connect with me
 
 - 📧 **Email:** caiotagb@gmail.com
